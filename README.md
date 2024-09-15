@@ -1,10 +1,10 @@
-# cloud-chart
+# weather-graph-downloader
 
 #### 介绍
-一个爬取全国云图的例子
+下载全国范围的720p云图
 
 #### 软件架构
-vue2 + koa2
+node + koa2
 
-![alt 卫星云图](./yuntu.png)
+![alt 卫星云图](yuntu.png)
  
