@@ -1,0 +1,20 @@
+{
+  "name": "yuntu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "serve": "node main.js"
+  },
+  "author": "pjh",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.6",
+    "cheerio": "^1.0.0-rc.11",
+    "cron": "^3.1.6",
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1",
+    "koa2-cors": "^2.0.6",
+    "request": "^2.88.2"
+  }
+}
